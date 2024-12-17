@@ -3,7 +3,6 @@ COMPANY:CODETECH IT SOLUTION
 ID:CT08DS587
 MENTOR:MUZAMMIL AHMAD
 
-![Screenshot (20)](https://github.com/user-attachments/assets/1a7e56c1-4497-49a4-9d9d-b800a9b29e2e)
 
 
 Here's a suggested GitHub project description for a Weather Forecast App:
@@ -24,7 +23,6 @@ Technical Stack:
 Getting Started:
  * Clone the repository:
    git clone https://github.com/your-username/weather-forecast-app
-![Screenshot (20)](https://github.com/user-attachments/assets/1a7e56c1-4497-49a4-9d9d-b800a9b29e2e)
 
  * Install dependencies:
    cd weather-forecast-app
@@ -46,3 +44,6 @@ Additional Tips:
  * Testing: Highlight your project's test coverage and quality assurance practices.
  * Deployment: Explain how to deploy the app to different platforms (web, mobile, etc.).
  * Community Engagement: Encourage users to provide feedback, report issues, and submit pull requests.
+
+ * ![Screenshot (20)](https://github.com/user-attachments/assets/1a7e56c1-4497-49a4-9d9d-b800a9b29e2e)
+
